@@ -370,7 +370,7 @@ img {
   align-items: center;
   width: 170px;
   height: 92px;
-  border: 1px solid var(--secondary-text-color);
+  border: 1px solid #afb1b8;
   border-radius: 4px;
 }
 
@@ -386,7 +386,7 @@ img {
 }
 
 .client-icon {
-  fill: var(--secondary-text-color);
+  fill: #afb1b8;
 }
 
 /* ==== footer ==== */
